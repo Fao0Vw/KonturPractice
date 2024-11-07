@@ -12,12 +12,12 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AngryBirds
-build_property.ProjectDir = C:\Users\alfedorov\Downloads\AngryBirds\
+build_property.ProjectDir = C:\Users\alfedorov\source\repos\KonturPractice\AngryBirds\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/alfedorov/Downloads/AngryBirds/UI/App.axaml]
+[C:/Users/alfedorov/source/repos/KonturPractice/AngryBirds/UI/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/alfedorov/Downloads/AngryBirds/UI/MainWindow.axaml]
+[C:/Users/alfedorov/source/repos/KonturPractice/AngryBirds/UI/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfedorov\\Downloads\\AngryBirds\\AngryBirds.csproj": {}
+    "C:\\Users\\alfedorov\\source\\repos\\KonturPractice\\AngryBirds\\AngryBirds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfedorov\\Downloads\\AngryBirds\\AngryBirds.csproj": {
+    "C:\\Users\\alfedorov\\source\\repos\\KonturPractice\\AngryBirds\\AngryBirds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfedorov\\Downloads\\AngryBirds\\AngryBirds.csproj",
+        "projectUniqueName": "C:\\Users\\alfedorov\\source\\repos\\KonturPractice\\AngryBirds\\AngryBirds.csproj",
         "projectName": "AngryBirds",
-        "projectPath": "C:\\Users\\alfedorov\\Downloads\\AngryBirds\\AngryBirds.csproj",
+        "projectPath": "C:\\Users\\alfedorov\\source\\repos\\KonturPractice\\AngryBirds\\AngryBirds.csproj",
         "packagesPath": "C:\\Users\\alfedorov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfedorov\\Downloads\\AngryBirds\\obj\\",
+        "outputPath": "C:\\Users\\alfedorov\\source\\repos\\KonturPractice\\AngryBirds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alfedorov\\AppData\\Roaming\\NuGet\\NuGet.Config",
